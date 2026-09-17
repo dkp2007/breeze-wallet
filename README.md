@@ -32,16 +32,3 @@ Two ready-made accounts to click around with, password `demo1234`:
 
 Everything here is play money. The card step uses Stripe's test mode, so nothing is ever really
 charged and nothing real moves.
-
-## Running it yourself
-
-The live link above is the easiest way to look around. To run your own copy, install
-[Node.js](https://nodejs.org), then:
-
-```bash
-npm install
-npm run dev
-```
-
-It also needs a few free accounts of your own (for the database, sign-in and card testing) before the
-app comes to life, so most people are better off starting with the live link.
